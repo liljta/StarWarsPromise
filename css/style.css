@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: #18807c;
+    font-weight: 900;
+}
+
+body{
+    background: whitesmoke;
+    color: #2c3248;
+}
+
+.result p {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.result p:hover {
+    background-color: #28ce8f;
+    color: #FFFFFF;
+}
